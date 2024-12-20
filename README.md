@@ -61,14 +61,14 @@ Work on product list feature:
 
 ## Bundle 4: Resolving Conflicts
 
-### Developer 1 (You):
+### Developer 2 (Your Friend):
 1. Handle the conflicting changes:
    - How would you identify what conflicts exist?
    - How would you get the latest changes?
    - Resolve the conflicts in the product grid layout
    - Push your resolved changes
 
-### Developer 2 (Your Friend):
+### Developer 1 (You):
 1. Update your work with the resolution:
    - How would you update your branch with the resolved conflicts?
    - Make any necessary adjustments to your code
