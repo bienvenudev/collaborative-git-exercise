@@ -25,14 +25,6 @@ Both developers should start by:
 
 ## Bundle 2: Parallel Development
 
-### Developer 1 (You):
-- Review and approve Developer 2's pull request
-- After the product list is merged to main:
-   - How would you get the latest changes from main that include the product list?
-   - How would you create a new branch for shopping cart that includes these products?
-
-- Start implementing shopping cart functionality that integrates with the existing product list
-
 ### Developer 2 (Your Friend):
 Work on product list feature:
 - How would you create and switch to a new feature branch?
@@ -42,6 +34,14 @@ Work on product list feature:
 - Create a pull request to main
 - Get it reviewed by Developer 1
 - Merge the product list feature into main
+
+### Developer 1 (You):
+- Review and approve Developer 2's pull request
+- After the product list is merged to main:
+   - How would you get the latest changes from main that include the product list?
+   - How would you create a new branch for shopping cart that includes these products?
+
+- Start implementing shopping cart functionality that integrates with the existing product list
 
 ## Bundle 3: Handling Conflicts
 
