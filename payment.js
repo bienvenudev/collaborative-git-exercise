@@ -1,2 +1,2 @@
 console.log("Depends on some cart functionality!");
-console.log("This is a hotfix");
+console.log("This is a hotfix!");
